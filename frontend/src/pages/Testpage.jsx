@@ -30,20 +30,35 @@ console.log(formatted)
 
     })
 }
-return(
-    <div>
-        {
-            questions.map((q)=>(<Questioncard
+return (
+  <div className="min-h-screen bg-gray-100 p-6">
+    <div className="max-w-4xl mx-auto">
+      <div className="text-center mb-10">
+        <h1 className="text-3xl font-bold text-indigo-700 uppercase tracking-wide">
+          MBTI Questions
+        </h1>
+      </div>
+
+      <div className="space-y-6">
+        {questions.map((q) => (
+          <Questioncard
             key={q.id}
             question={q}
-            onAnswer={(response)=>handleresponse(q.id,response,q.mbti)}
-            ></Questioncard>
-            ))
-            
-        }
-        <button onClick={handleSubmit}>
-            SUBMIT
+            onAnswer={(response) => handleresponse(q.id, response, q.mbti)}
+          />
+        ))}
+      </div>
+
+      <div className="mt-10 text-center">
+        <button
+          onClick={handleSubmit}
+          className="bg-indigo-600 text-white px-6 py-3 rounded-xl shadow hover:bg-indigo-700 transition duration-300"
+        >
+          Submit
         </button>
+      </div>
     </div>
-)
+  </div>
+);
+
 }

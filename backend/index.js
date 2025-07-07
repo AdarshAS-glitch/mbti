@@ -39,6 +39,7 @@ app.post('/questions',async (req,res)=>{
         counts[trait]=counts[trait]+response;
     }
    const personality= computepersonality(counts);
+   console.log(counts)
 res.json(personality)
 
 })

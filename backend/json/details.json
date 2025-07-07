@@ -1,0 +1,82 @@
+[
+  {
+    "type": "INTJ",
+    "name": "Architect",
+    "description": "INTJs are strategic, logical, and fiercely independent thinkers who excel at long-term planning. Known for their high standards and confidence, they often see the world as a system to be optimized. Though introverted, they are not shy and often take bold steps to achieve their visions. They enjoy intellectual challenges and are skilled at seeing patterns others may miss. Driven by ambition and a thirst for knowledge, INTJs seek competence and personal growth. Their emotions are often hidden beneath a calm exterior, and they prefer deep, meaningful conversations over social pleasantries."
+  },
+  {
+    "type": "INTP",
+    "name": "Logician",
+    "description": "INTPs are analytical, abstract thinkers known for their creativity, curiosity, and love of exploring theoretical concepts. They are introspective and enjoy dissecting ideas to understand how things work. Preferring independence over collaboration, they often get lost in thought, pursuing intellectual insights over practical outcomes. INTPs are nonconformists who value truth and logic above all else. Though quiet and reserved, their minds are active and inventive. They can struggle with routine and emotional expression but thrive in open-ended environments where they can innovate and question assumptions freely."
+  },
+  {
+    "type": "ENTJ",
+    "name": "Commander",
+    "description": "ENTJs are natural-born leaders who thrive on structure, organization, and long-term vision. They are assertive, confident, and decisive, often setting high standards for themselves and others. Known for their efficiency and ability to take control of situations, ENTJs enjoy solving problems and managing teams. Their strategic thinking and charisma make them powerful influencers. Although they can be blunt or impatient with inefficiency, they are deeply motivated by success and progress. ENTJs value competence and often seek challenges that push their limits, leading with vision and a strong sense of purpose."
+  },
+  {
+    "type": "ENTP",
+    "name": "Debater",
+    "description": "ENTPs are energetic, quick-witted, and curious individuals who love debating and exploring new ideas. They thrive on intellectual stimulation and are constantly generating innovative concepts. Enthusiastic and adaptable, they often jump between interests and enjoy challenging conventional thinking. Though they can appear argumentative, they debate to learn, not dominate. ENTPs dislike routine and are easily bored without mental engagement. They value growth, exploration, and personal freedom, making them excellent problem solvers. Charismatic and clever, they often influence others with their passion and creativity."
+  },
+  {
+    "type": "INFJ",
+    "name": "Advocate",
+    "description": "INFJs are idealistic, insightful, and deeply compassionate individuals who seek purpose and meaning in everything they do. Driven by strong values, they are guided by a deep sense of integrity and a desire to help others. Though quiet and private, they are powerful communicators when discussing causes they care about. INFJs excel at understanding others' emotions and often anticipate needs before they are expressed. They blend creativity with practicality, making them effective planners and change-makers. Though prone to burnout, they’re deeply fulfilled by contributing to a better world."
+  },
+  {
+    "type": "INFP",
+    "name": "Mediator",
+    "description": "INFPs are imaginative, empathetic, and idealistic individuals who seek harmony and authenticity. Guided by their internal values, they are sensitive to the emotions of others and often feel a deep connection to the world around them. INFPs are driven by a desire to understand and help others, often expressing themselves through creative means. They may appear quiet or reserved, but their inner emotional world is rich and vivid. Passionate about causes they believe in, they strive for personal growth and meaningful experiences, sometimes struggling with perfectionism or self-doubt."
+  },
+  {
+    "type": "ENFJ",
+    "name": "Protagonist",
+    "description": "ENFJs are charismatic, empathetic, and inspiring individuals who lead with vision and warmth. They are deeply attuned to the needs of others and are motivated by a desire to make a positive difference. Natural organizers and motivators, ENFJs excel in leadership roles where they can bring people together toward shared goals. They are expressive, responsible, and often idealistic, believing in the potential of everyone they meet. Though they can be overly self-sacrificing or sensitive to criticism, ENFJs thrive when helping others achieve their best."
+  },
+  {
+    "type": "ENFP",
+    "name": "Campaigner",
+    "description": "ENFPs are energetic, imaginative, and optimistic individuals who are driven by possibility and connection. They are enthusiastic about exploring new ideas and forming deep relationships. Curious and spontaneous, ENFPs dislike routine and seek out meaning and excitement in everything they do. They are emotionally intelligent and open-minded, often inspiring others through their creativity and authenticity. Though easily distracted and prone to overcommitting, they bring joy and passion to any situation. ENFPs thrive in environments that allow self-expression and personal growth."
+  },
+  {
+    "type": "ISTJ",
+    "name": "Logistician",
+    "description": "ISTJs are dependable, responsible, and highly practical individuals who value tradition and order. They take their duties seriously and are known for their honesty, patience, and attention to detail. ISTJs work hard to fulfill commitments and maintain stability in their lives. Preferring structure and routine, they excel in environments with clear rules and expectations. Though reserved and quiet, they are loyal and trustworthy, often forming strong bonds over time. Their methodical approach ensures that tasks are completed efficiently and thoroughly."
+  },
+  {
+    "type": "ISFJ",
+    "name": "Defender",
+    "description": "ISFJs are nurturing, reliable, and considerate individuals who quietly support others. They value harmony, tradition, and loyalty, often placing others’ needs before their own. Patient and observant, ISFJs notice details others miss and are thoughtful in their actions. Though introverted, they form deep emotional connections and are often selfless in their care. They prefer structured environments where they can contribute meaningfully and avoid conflict. Their warmth and dedication make them beloved friends, family members, and coworkers."
+  },
+  {
+    "type": "ESTJ",
+    "name": "Executive",
+    "description": "ESTJs are organized, assertive, and reliable leaders who thrive on structure and responsibility. They value order, tradition, and practical solutions, and are often found managing teams or enforcing standards. ESTJs are logical and clear-headed, taking pride in their efficiency and work ethic. Though sometimes rigid or inflexible, they are trustworthy and dedicated. They enjoy being in control and prefer environments with defined rules and expectations. ESTJs lead by example and take great satisfaction in achieving results and maintaining social order."
+  },
+  {
+    "type": "ESFJ",
+    "name": "Consul",
+    "description": "ESFJs are warm, sociable, and generous individuals who thrive on helping others and building community. They are organized and attentive, often taking on caretaking roles and ensuring everyone feels supported. ESFJs value harmony, tradition, and social connection, often excelling at reading emotions and managing group dynamics. They are sensitive to feedback and can be deeply affected by criticism. Known for their loyalty and attention to detail, they bring warmth and stability to both personal and professional relationships."
+  },
+  {
+    "type": "ISTP",
+    "name": "Virtuoso",
+    "description": "ISTPs are practical, independent, and action-oriented individuals who love to understand how things work. They are natural tinkerers who enjoy hands-on problem-solving and exploration. Curious and adaptable, ISTPs thrive in crisis situations and often respond quickly and effectively. They value freedom and autonomy, preferring flexible environments over strict routines. Though quiet, they are observant and realistic. Their calm and analytical mindset allows them to make quick, logical decisions under pressure. They often prefer doing over talking."
+  },
+  {
+    "type": "ISFP",
+    "name": "Adventurer",
+    "description": "ISFPs are gentle, artistic, and spontaneous individuals who appreciate beauty and personal expression. They are deeply in touch with their emotions and enjoy living in the moment. Often quiet and modest, they show their warmth through actions rather than words. ISFPs value freedom and dislike being controlled or pressured. Creative and sensitive, they often express themselves through art, music, or nature. They prefer personal experiences to abstract theories and are loyal friends who seek harmony and joy in everyday life."
+  },
+  {
+    "type": "ESTP",
+    "name": "Entrepreneur",
+    "description": "ESTPs are energetic, bold, and charismatic individuals who love excitement and taking risks. They are action-oriented and thrive in fast-paced environments that require quick thinking. ESTPs are persuasive and observant, often charming those around them with their confidence and wit. They dislike theoretical discussions and prefer hands-on problem-solving. Impulsive and competitive, they enjoy challenges and new experiences. Though sometimes insensitive or reckless, they are highly resourceful and excel at navigating real-world situations with agility and confidence."
+  },
+  {
+    "type": "ESFP",
+    "name": "Entertainer",
+    "description": "ESFPs are lively, spontaneous, and warm-hearted individuals who love being the center of attention. They are outgoing and love to entertain, making people laugh and feel included. Focused on the present, they enjoy sensory experiences and seek out excitement. ESFPs are empathetic and observant, often picking up on others’ moods and responding with compassion. Though they may avoid conflict and deep introspection, they bring joy and positivity to every situation. They thrive in social environments and value connection, freedom, and fun."
+  }
+]

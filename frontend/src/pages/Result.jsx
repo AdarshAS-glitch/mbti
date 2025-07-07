@@ -8,12 +8,21 @@ export default function Result(){
         setresult(JSON.parse(stored))
     }
    },[])
-    return(
-        <div>
-            <h1>
-                MBTI RESULT:
-            </h1>
-            {result}
-        </div>
-    )
+   return (
+  <div className="min-h-screen bg-gradient-to-r from-indigo-100 to-blue-100 p-6">
+    <div className="max-w-xl mx-auto bg-white shadow-lg rounded-xl p-6 mt-10 text-center">
+      <h1 className="text-4xl font-bold text-indigo-700">
+        Your MBTI Result: <span className="text-gray-800">{result}</span>
+      </h1>
+    </div>
+
+    {/* Centered text with controlled width and even side margins */}
+    <div className="max-w-screen-md mx-auto mt-6 px-4 text-center">
+      <div className="flex justify-center flex-wrap text-lg font-medium text-gray-700">
+        THE TEXT
+      </div>
+    </div>
+  </div>
+);
+
 }

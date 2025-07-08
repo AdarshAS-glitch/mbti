@@ -1,4 +1,4 @@
-const descriptions = {
+export const descriptions = {
   INFJ: "Seek meaning and connection in ideas, relationships, and material possessions. Want to understand what motivates people and are insightful about others. Conscientious and committed to their firm values. Develop a clear vision about how best to serve the common good. Organized and decisive in implementing their vision.",
   INFP: "Idealistic, loyal to their values and to people who are important to them. Want to live a life that is congruent with their values. Curious, quick to see possibilities, can be catalysts for implementing ideas. Seek to understand people and to help them fulfill their potential. Adaptable, flexible, and accepting unless a value is threatened.",
   INTJ: "Have original minds and great drive for implementing their ideas and achieving their goals. Quickly see patterns in external events and develop long-range explanatory perspectives. When committed, organize a job and carry it through. Skeptical and independent, have high standards of competence and performance—for themselves and others.",
@@ -16,4 +16,21 @@ const descriptions = {
   ESTJ: "Practical, realistic, matter-of-fact. Decisive, quickly move to implement decisions. Organize projects and people to get things done, focus on getting results in the most efficient way possible. Take care of routine details. Have a clear set of logical standards, systematically follow them and want others to also. Forceful in implementing their plans.",
   ESTP: "Flexible and tolerant, take a pragmatic approach focused on immediate results. Bored by theories and conceptual explanations; want to act energetically to solve the problem. Focus on the here and now, spontaneous, enjoy each moment they can be active with others. Enjoy material comforts and style. Learn best through doing."
 };
-export default descriptions;
+export const title = {
+  INFJ: "Advocate",
+  INFP: "Mediator",
+  INTJ: "Architect",
+  INTP: "Logician",
+  ISFJ: "Defender",
+  ISFP: "Adventurer",
+  ISTJ: "Logistician",
+  ISTP: "Virtuoso",
+  ENFJ: "Protagonist",
+  ENFP: "Campaigner",
+  ENTJ: "Commander",
+  ENTP: "Debater",
+  ESFJ: "Consul",
+  ESFP: "Entertainer",
+  ESTJ: "Executive",
+  ESTP: "Entrepreneur"
+};

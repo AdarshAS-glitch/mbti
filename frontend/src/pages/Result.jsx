@@ -1,9 +1,10 @@
 import { useEffect, useState } from "react";
-import descriptions from "../data/data";
+import {descriptions,title} from "../data/data";
 
 export default function Result() {
   const [result, setResult] = useState("");
   const [details, setDetails] = useState("");
+  const [name,setName]=useState("")
 
   useEffect(() => {
     const stored = localStorage.getItem("mbti_result");
@@ -11,6 +12,7 @@ export default function Result() {
       const parsed = JSON.parse(stored);
       setResult(parsed);
       setDetails(descriptions[parsed] || "No description found.");
+      setName(title[parsed] || "No name found.")
     }
   }, []);
 
@@ -23,7 +25,12 @@ export default function Result() {
       </div>
 
       <div className="max-w-screen-md mx-auto mt-6 px-4 text-center">
-        <div className="flex justify-center flex-wrap text-lg font-medium text-gray-700">
+        <h1>
+          <p className="text-3xl font-bold">
+          {name}
+          </p>
+        </h1>
+        <div className="flex justify-center flex-wrap mt-8 text-lg font-medium text-gray-700">
           {details}
         </div>
       </div>
